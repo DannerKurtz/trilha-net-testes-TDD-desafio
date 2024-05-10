@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio", "Desafio.csproj", "{0D030056-530E-4A9B-B42E-64BEC9DE35B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDesafio", "..\TestDesafio\TestDesafio.csproj", "{FCC51D02-3F1C-4875-903E-C1E62D60DBDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D030056-530E-4A9B-B42E-64BEC9DE35B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D030056-530E-4A9B-B42E-64BEC9DE35B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D030056-530E-4A9B-B42E-64BEC9DE35B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D030056-530E-4A9B-B42E-64BEC9DE35B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC51D02-3F1C-4875-903E-C1E62D60DBDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC51D02-3F1C-4875-903E-C1E62D60DBDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC51D02-3F1C-4875-903E-C1E62D60DBDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC51D02-3F1C-4875-903E-C1E62D60DBDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F2E6875-003A-4582-8A4B-C5D4FE102AFB}
+	EndGlobalSection
+EndGlobal
